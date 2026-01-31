@@ -1,18 +1,18 @@
-# PowerApps Export Packages
+# PowerApps エクスポートパッケージ
 
-This directory contains exported PowerApps packages for the
-Annual Leave Management System (Student version).
+本ディレクトリには、年次休暇管理システム（学生用）で使用した  
+PowerApps アプリケーションのエクスポートパッケージを格納しています。
 
-## Contents
+## 内容
 - initial-registration-student.zip  
-  Initial setup app for registering user information and leave balance.
+  利用者情報および年次休暇残数を登録するための初期設定アプリです。
 
 - leave-application-student.zip  
-  Application app for submitting annual leave requests and viewing history.
+  年次休暇の申請および申請履歴の確認を行うためのアプリです。
 
 - leave-management-student.zip  
-  Management app for supervisors to review applications and visualize balances.
+  承認者（指導教官）が申請内容の確認や残数の可視化を行うための管理用アプリです。
 
-## Notes
-- These packages are provided as implementation evidence.
-- Re-import requires a Microsoft Power Platform environment.
+## 補足
+- これらのファイルは、実装内容を示す証拠資料として掲載しています。
+- 再インポートには Microsoft Power Platform の実行環境が必要です。
